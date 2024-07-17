@@ -8,7 +8,7 @@ El curso inicia con una peuqueña introducción a la interfaz de RStudio y algun
 
 Los participantes aprenderan a manipular, trnasformas y limipiar datos de forma eficiente. Además, se daran algunos consejos sobre la visualización de datos que les permita comunicar sus hallazgos de forma efectiva. A lo largo del curso discutiremos las mejores prácticas para hacer código (programas) reproducibles. El curso está diseñado para ser interactivo con un enfoque en las aplicaciones prácticas y tiene el objetivo de que los participantes pueden aplicar inmediatamente sus conocimientos a sus propias investigaciones. 
 
-Programa del taller: 
+Contenido del taller: 
 
 * Introducción a R usando el IDE RStudio.
 * Introducción al manejo de datos en R
